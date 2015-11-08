@@ -1,0 +1,4 @@
+test:
+  override:
+    - sudo ./test9.sh
+
